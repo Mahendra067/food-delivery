@@ -11,7 +11,7 @@
     // define('DB_NAME', 'food-order');
 
     //Remote Database Connection
-    define('SITEURL', 'http://remotemysql.com/food-order/');
+    define('SITEURL', 'http://remotemysql.com/1LxGQXZvd0/');
     define('LOCALHOST', 'remotemysql.com');
     define('DB_USERNAME', '1LxGQXZvd0');
     define('DB_PASSWORD', '');
