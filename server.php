@@ -12,7 +12,7 @@ $_SESSION['success'] = "";
 
 // DBMS connection code -> hostname,
 // username, password, database name
-$db = mysqli_connect('remotemysql.com', 'DI2ESSb1O4', '', 'DI2ESSb1O4');
+$db = mysqli_connect('remotemysql.com', 'DI2ESSb1O4', 'kJnkKp8vO2', 'DI2ESSb1O4');
 
 // Registration code
 if (isset($_POST['reg_user'])) {
