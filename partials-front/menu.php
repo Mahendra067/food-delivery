@@ -12,7 +12,7 @@ include("auth_session.php");
      define('SITEURL', 'http://remotemysql.com/DI2ESSb1O4/');
     define('LOCALHOST', 'remotemysql.com');
     define('DB_USERNAME', 'DI2ESSb1O4');
-    define('DB_PASSWORD', '');
+    define('DB_PASSWORD', 'kJnkKp8vO2');
     define('DB_NAME', 'DI2ESSb1O4');
 
     //execute query and save data in database
